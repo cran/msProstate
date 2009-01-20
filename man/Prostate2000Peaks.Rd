@@ -21,13 +21,13 @@ B.L. Adam, Y. Qu, J.W. Davis, M.D. Ward, M.A. Clements, L.H. Cazares,
 O.J. Semmes, P.F. Schellhammer, Y. Yasui, Z. Feng, and G.L. Wright, Jr.,
 ``Serum protein fingerprinting coupled with a pattern-matching algorithm
 distinguishes prostate cancer from benign prostate hyperplasia and healthy men,"
-\emph{Cancer Research}, \textbf{62}(13):3609--14, 2002.
+\emph{Cancer Research}, 62(13):3609--14, 2002.
 
 Y. Qu, B.L. Adam, Y. Yasui, M.D. Ward, L.H. Cazares,
 P.F. Schellhammer, Z. Feng, O.J. Semmes, and G.L. Wright Jr.,
 ``Boosted decision tree analysis of surface-enhanced laser desorption/ionization
 mass spectral serum profiles discriminates prostate cancer from noncancer patients,"
-\emph{Clinical Chemistry}, \textbf{48}(10):1835--43, 2002.
+\emph{Clinical Chemistry}, 48(10):1835--43, 2002.
 }
 
 \seealso{\code{\link{Prostate2000Raw}}.}
